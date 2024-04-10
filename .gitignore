@@ -17,8 +17,23 @@ build
 .DS_Store
 *.pem
 
-
+# important files
 .env
+.prettierignore
+tsconfig.json
+.editorconfig
+next-env.d.ts
+next.config.mjs
+prettier.config.js
+postcss.config.js
+
+
+
+
+
+
+
+
 
 # debug
 npm-debug.log*
